@@ -22,6 +22,14 @@ h2 {
   margin-bottom: 20px;
   font-size: 28px;
 }
+.name-tag {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 26px;
+  font-weight: bold;
+  color: rgb(186, 0, 0);   /* 🔴 Name in red */
+}
 
 .grid {
   display: grid;
